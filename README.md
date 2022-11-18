@@ -96,7 +96,7 @@ For issues, raise a ticket
 
 ##Author Information
 
-pramod.kumar.nayak@kyndryl.com
+pramodkumarnayak@gmail.com
 
 ##Deployment
 
