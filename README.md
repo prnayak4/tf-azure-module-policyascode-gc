@@ -1,5 +1,5 @@
 ## Introduction     
-Kyndryl Offering Story  "354533 AZR - Implement policy definitions as code with GitHub and integrate it with ADO pipeline . This is for specific Resource Group and Specific Location "
+ Implement policy definitions as code with GitHub and integrate it with ADO pipeline . This is for specific Resource Group and Specific Location "
 ## Description 
 An Azure Policy as Code workflow makes it possible to manage your policy definitions and assignments as code. Under this approach teams write out custom policies using json and it can apply to subscriptions as initiatives which can automate  and validate the compliance results .
  Policy as Code  make  it possible to manage policy definitions and assignments as code, control the lifecycle of updating those definitions, and automate the validating of compliance resultsanagement is a configuration component of Automation Linux virtual machines in azure and  send assessment information about missing updates to the Log Analytics workspace. This module is optimized to work for update management scheduing  in Linux  environment which set some terraform variables in the environment needed by this module.
